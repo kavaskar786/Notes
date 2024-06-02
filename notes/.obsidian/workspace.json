@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "placement_notes/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "placement_notes/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "placement_notes/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "placement_notes/Syllabus.md"
               }
             }
           }
@@ -162,7 +162,11 @@
   },
   "active": "9363e2a1c232dd89",
   "lastOpenFiles": [
-    "placement_notes",
-    "Welcome.md"
+    "placement_notes/Percentage",
+    "Welcome.md",
+    "placement_notes/Syllabus.md",
+    "placement_notes/Numbers",
+    "Untitled",
+    "placement_notes"
   ]
 }
