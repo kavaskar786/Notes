@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "placement_notes/Syllabus.md",
+                "file": "js_notes/susimdev.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "placement_notes/Syllabus.md",
+                "file": "js_notes/susimdev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "placement_notes/Syllabus.md",
+                "file": "js_notes/susimdev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "placement_notes/Syllabus.md"
+                "file": "js_notes/susimdev.md"
               }
             }
           }
@@ -160,16 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9363e2a1c232dd89",
+  "active": "0150afaa0080e2c4",
   "lastOpenFiles": [
+    "placement_notes/Syllabus.md",
+    "js_notes/susimdev.md",
+    "js_notes",
     "placement_notes/Data interpretation",
-    "Untitled",
     "placement_notes/Verbal Reasoning",
     "placement_notes/Logical Reasoning",
     "placement_notes/Quantitative Aptitude",
     "placement_notes/Percentage",
     "Welcome.md",
-    "placement_notes/Syllabus.md",
     "placement_notes/Numbers",
     "placement_notes"
   ]
