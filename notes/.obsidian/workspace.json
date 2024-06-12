@@ -6,6 +6,7 @@
       {
         "id": "85d5912120cec857",
         "type": "tabs",
+        "dimension": 70.50147492625368,
         "children": [
           {
             "id": "0150afaa0080e2c4",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js_notes/susimdev.md",
+                "file": "career/Activites.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "5e416a916e14ef13",
         "type": "tabs",
+        "dimension": 29.49852507374631,
         "children": [
           {
             "id": "f61026a79c93ddac",
@@ -83,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "073f7dd742a14e1c",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js_notes/susimdev.md",
+                "file": "career/Activites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js_notes/susimdev.md",
+                "file": "career/Activites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js_notes/susimdev.md"
+                "file": "career/Activites.md"
               }
             }
           }
@@ -162,8 +164,15 @@
   },
   "active": "0150afaa0080e2c4",
   "lastOpenFiles": [
+    "carrier.md",
+    "career/Activites.md",
+    "career",
+    "js_notes/ln1_basics.md",
+    "js_notes/programming language.md",
+    "js_notes/intro_by_susimdev.md",
+    "js_notes/num and math",
+    "js_notes/ln1basics",
     "placement_notes/Syllabus.md",
-    "js_notes/susimdev.md",
     "js_notes",
     "placement_notes/Data interpretation",
     "placement_notes/Verbal Reasoning",
@@ -171,7 +180,6 @@
     "placement_notes/Quantitative Aptitude",
     "placement_notes/Percentage",
     "Welcome.md",
-    "placement_notes/Numbers",
-    "placement_notes"
+    "placement_notes/Numbers"
   ]
 }
