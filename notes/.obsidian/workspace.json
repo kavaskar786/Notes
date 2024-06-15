@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "85d5912120cec857",
+        "id": "de4301127aee33a4",
         "type": "tabs",
-        "dimension": 70.50147492625368,
         "children": [
           {
-            "id": "0150afaa0080e2c4",
+            "id": "2fd99132123d9389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career/Activites.md",
+                "file": "js_notes/syntax.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e416a916e14ef13",
-        "type": "tabs",
-        "dimension": 29.49852507374631,
-        "children": [
-          {
-            "id": "f61026a79c93ddac",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/Activites.md",
+                "file": "js_notes/syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/Activites.md",
+                "file": "js_notes/syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/Activites.md"
+                "file": "js_notes/syntax.md"
               }
             }
           }
@@ -162,24 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0150afaa0080e2c4",
+  "active": "2fd99132123d9389",
   "lastOpenFiles": [
+    "interview_vekora/ERP.md",
+    "js_notes/syntax.md",
+    "js_notes/intro_by_susimdev.md",
+    "interview_vekora",
+    "career/long term Activites.md",
+    "MCA/Project.md",
+    "MCA/Cyber Security.md",
+    "JOB/coding",
+    "MCA/AI and ML.md",
+    "YouTube",
+    "UPSC",
+    "JOB",
+    "MCA",
     "carrier.md",
-    "career/Activites.md",
     "career",
     "js_notes/ln1_basics.md",
     "js_notes/programming language.md",
-    "js_notes/intro_by_susimdev.md",
     "js_notes/num and math",
     "js_notes/ln1basics",
-    "placement_notes/Syllabus.md",
+    "JOB/Aptitude/Syllabus.md",
     "js_notes",
-    "placement_notes/Data interpretation",
-    "placement_notes/Verbal Reasoning",
-    "placement_notes/Logical Reasoning",
-    "placement_notes/Quantitative Aptitude",
-    "placement_notes/Percentage",
-    "Welcome.md",
-    "placement_notes/Numbers"
+    "Welcome.md"
   ]
 }
