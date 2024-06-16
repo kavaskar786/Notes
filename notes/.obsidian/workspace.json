@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js_notes/syntax.md",
+                "file": "js_notes/ln_2_num_and_maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js_notes/syntax.md",
+                "file": "js_notes/ln_2_num_and_maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js_notes/syntax.md",
+                "file": "js_notes/ln_2_num_and_maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js_notes/syntax.md"
+                "file": "js_notes/ln_2_num_and_maths.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "2fd99132123d9389",
   "lastOpenFiles": [
-    "interview_vekora/ERP.md",
     "js_notes/syntax.md",
+    "js_notes/ln_2_num_and_maths.md",
+    "interview_vekora/ERP.md",
     "js_notes/intro_by_susimdev.md",
     "interview_vekora",
     "career/long term Activites.md",
