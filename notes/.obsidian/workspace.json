@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js_notes/ln_2_num_and_maths.md",
+                "file": "MCA/IOT/MOOC_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js_notes/ln_2_num_and_maths.md",
+                "file": "MCA/IOT/MOOC_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js_notes/ln_2_num_and_maths.md",
+                "file": "MCA/IOT/MOOC_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js_notes/ln_2_num_and_maths.md"
+                "file": "MCA/IOT/MOOC_2.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "2fd99132123d9389",
   "lastOpenFiles": [
-    "js_notes/syntax.md",
+    "MCA/IOT/MOOC course.md",
+    "MCA/IOT/MOOC_2.md",
+    "Pasted image 20240618081606.png",
     "js_notes/ln_2_num_and_maths.md",
+    "MCA/IOT",
+    "js_notes/syntax.md",
     "interview_vekora/ERP.md",
     "js_notes/intro_by_susimdev.md",
     "interview_vekora",
@@ -169,7 +173,6 @@
     "js_notes/num and math",
     "js_notes/ln1basics",
     "JOB/Aptitude/Syllabus.md",
-    "js_notes",
     "Welcome.md"
   ]
 }
