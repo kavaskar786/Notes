@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/IOT/MOOC_2.md",
+                "file": "MCA/AI and ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCA/IOT/MOOC_2.md",
+                "file": "MCA/AI and ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCA/IOT/MOOC_2.md",
+                "file": "MCA/AI and ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCA/IOT/MOOC_2.md"
+                "file": "MCA/AI and ML.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fd99132123d9389",
+  "active": "9363e2a1c232dd89",
   "lastOpenFiles": [
-    "MCA/IOT/MOOC course.md",
+    "JOB/Aptitude/non_verbal reasoning",
+    "JOB/Aptitude/verbal ability",
+    "2024-06-19.md",
+    "2024-06-18.md",
     "MCA/IOT/MOOC_2.md",
+    "MCA/IOT/MOOC course.md",
     "Pasted image 20240618081606.png",
     "js_notes/ln_2_num_and_maths.md",
     "MCA/IOT",
@@ -171,7 +175,6 @@
     "js_notes/ln1_basics.md",
     "js_notes/programming language.md",
     "js_notes/num and math",
-    "js_notes/ln1basics",
     "JOB/Aptitude/Syllabus.md",
     "Welcome.md"
   ]
