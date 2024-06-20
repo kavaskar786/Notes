@@ -5,4 +5,8 @@
 	4. Iterative deepening search
 2. Breadth-first search
 	1. follow first in first out in the array
-	2. 
+
+
+2024-06-20 04:42
+- [ ] need to do the lab exercise 2 before 11:30 am
+- [ ] 

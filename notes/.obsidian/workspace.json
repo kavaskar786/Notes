@@ -18,8 +18,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "347a2bb6dbcd0095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js_notes/intro_by_susimdev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "419acebf32bafb2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e57aa37a8b22269a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA/AI and ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8422647999284c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA/AI and ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,8 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9363e2a1c232dd89",
+  "active": "8422647999284c83",
   "lastOpenFiles": [
+    "MCA/AI and ML.md",
+    "js_notes/intro_by_susimdev.md",
+    "MCA/cyber security.md",
     "JOB/Aptitude/non_verbal reasoning",
     "JOB/Aptitude/verbal ability",
     "2024-06-19.md",
@@ -159,13 +207,11 @@
     "MCA/IOT",
     "js_notes/syntax.md",
     "interview_vekora/ERP.md",
-    "js_notes/intro_by_susimdev.md",
     "interview_vekora",
     "career/long term Activites.md",
     "MCA/Project.md",
     "MCA/Cyber Security.md",
     "JOB/coding",
-    "MCA/AI and ML.md",
     "YouTube",
     "UPSC",
     "JOB",
@@ -174,7 +220,6 @@
     "career",
     "js_notes/ln1_basics.md",
     "js_notes/programming language.md",
-    "js_notes/num and math",
     "JOB/Aptitude/Syllabus.md",
     "Welcome.md"
   ]
