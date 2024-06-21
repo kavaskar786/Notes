@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/AI and ML.md",
+                "file": "MCA/Micro Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345f6586c64838c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCA/AI and ML.md",
+                "file": "2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCA/AI and ML.md",
+                "file": "2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCA/AI and ML.md"
+                "file": "2024-06-21.md"
               }
             }
           }
@@ -191,15 +203,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8422647999284c83",
+  "active": "345f6586c64838c9",
   "lastOpenFiles": [
+    "2024-06-20.md",
+    "2024-06-21.md",
+    "MCA/Micro Services.md",
+    "Pasted image 20240620175306.png",
+    "Pasted image 20240620175224.png",
+    "2024-06-18.md",
+    "2024-06-19.md",
+    "Untitled.md",
     "MCA/AI and ML.md",
     "js_notes/intro_by_susimdev.md",
     "MCA/cyber security.md",
     "JOB/Aptitude/non_verbal reasoning",
     "JOB/Aptitude/verbal ability",
-    "2024-06-19.md",
-    "2024-06-18.md",
     "MCA/IOT/MOOC_2.md",
     "MCA/IOT/MOOC course.md",
     "Pasted image 20240618081606.png",
