@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-21.md",
+                "file": "js_notes/freecoding camp tut.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-21.md",
+                "file": "js_notes/freecoding camp tut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-21.md",
+                "file": "js_notes/freecoding camp tut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-21.md"
+                "file": "js_notes/freecoding camp tut.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "345f6586c64838c9",
   "lastOpenFiles": [
-    "2024-06-20.md",
     "2024-06-21.md",
+    "js_notes/freecoding camp tut.md",
+    "2024-06-20.md",
     "MCA/Micro Services.md",
     "Pasted image 20240620175306.png",
     "Pasted image 20240620175224.png",
