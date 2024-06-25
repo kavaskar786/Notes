@@ -1,0 +1,2 @@
+- [ ] tomorrow register aws registration
+- [ ] and need to complete mooc course tomorrow

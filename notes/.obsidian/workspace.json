@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js_notes/freecoding camp tut.md",
+                "file": "js_notes/js_by_linkedin.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js_notes/freecoding camp tut.md",
+                "file": "js_notes/js_by_linkedin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js_notes/freecoding camp tut.md",
+                "file": "js_notes/js_by_linkedin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js_notes/freecoding camp tut.md"
+                "file": "js_notes/js_by_linkedin.md"
               }
             }
           }
@@ -217,16 +217,24 @@
   },
   "active": "3de9d79362f1b0ee",
   "lastOpenFiles": [
+    "MCA/cloud computing/cc_notes_1.md",
+    "js_notes/js_by_linkedin.md",
+    "MCA/Micro Services.md",
+    "Pasted image 20240624080418.png",
+    "2024-06-24.md",
+    "MCA/cloud computing/tasks.md",
+    "MCA/Project/MindCare Comprehensive Mental Health Support Platform.md",
+    "MCA/cloud computing",
+    "MCA/AI and ML.md",
+    "MCA/Project",
     "js_notes/freecoding camp tut.md",
     "2024-06-21.md",
     "2024-06-20.md",
-    "MCA/Micro Services.md",
     "Pasted image 20240620175306.png",
     "Pasted image 20240620175224.png",
     "2024-06-18.md",
     "2024-06-19.md",
     "Untitled.md",
-    "MCA/AI and ML.md",
     "js_notes/intro_by_susimdev.md",
     "MCA/cyber security.md",
     "JOB/Aptitude/non_verbal reasoning",
@@ -246,12 +254,8 @@
     "YouTube",
     "UPSC",
     "JOB",
-    "MCA",
     "carrier.md",
-    "career",
     "js_notes/ln1_basics.md",
-    "js_notes/programming language.md",
-    "JOB/Aptitude/Syllabus.md",
-    "Welcome.md"
+    "js_notes/programming language.md"
   ]
 }
