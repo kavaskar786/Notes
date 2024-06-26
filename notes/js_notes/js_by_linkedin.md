@@ -50,7 +50,7 @@
 6. object arrays and more
 	1. object
 		1. assume the scenario that we create one object and assigning to the other variable using the assignment operator(=)
-			1. this will create only reference not a copy that means changing the values in the second variable will also affect the actual abjects value
+			1. this will create only reference not a copy that means changing the values in the second variable will also affect the actual objects value
 			2. we had certain methods to do it
 				1. Object.assign() method
 				2. ... using spread operator
@@ -58,6 +58,7 @@
 		2. ... is called spread operator
 		3. JSON stands for java script object notation
 		4. we can able to use different data types
+		5. object.hasOwnProperty() - will check wether the object has the particular property in the open brackets
 	2. array
 		1. this data struct will preserve their order
 		2. [] is used to create a array
@@ -150,4 +151,17 @@
 	2. enumerative for loop
 		1. for (var p in list1) {p's value is the key numbers}
 		2. for (var v of list1) {v rep the values of the list instead of the key}
-		3. 
+	3. while loop
+		1. while (condition) { ;stoping variable}
+13. set and map
+		1. sets
+			1. sets will store each value exactly and only once
+			2. it like unordered
+			3. must be accessed and changed using special methods
+				1. myset.add('juno')
+				2. set.has() - checks whethers the value available in the set or not
+		2. Map
+			1. map is like ordered object
+				1. map.set() - will add values to the map
+				2. map.get()
+				3. map.has()

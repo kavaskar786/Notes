@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/Micro Services.md",
+                "file": "MCA/microservices/Micro Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/cloud computing/cc_notes_2.md",
+                "file": "MCA/microservices/cls_3.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCA/cloud computing/cc_notes_2.md",
+                "file": "MCA/microservices/cls_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCA/cloud computing/cc_notes_2.md",
+                "file": "MCA/microservices/cls_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCA/cloud computing/cc_notes_2.md"
+                "file": "MCA/microservices/cls_3.md"
               }
             }
           }
@@ -217,14 +217,18 @@
   },
   "active": "3de9d79362f1b0ee",
   "lastOpenFiles": [
-    "MCA/cloud computing/cc_notes_1.md",
-    "MCA/cloud computing/cc_notes_2.md",
+    "MCA/microservices/Micro Services.md",
+    "MCA/microservices/cls_3.md",
+    "MCA/microservices",
+    "MCA/IOT/class_2.md",
+    "2024-06-20.md",
+    "MCA/IOT/Basic Electronics.md",
     "js_notes/js_by_linkedin.md",
+    "MCA/cloud computing/cc_notes_2.md",
+    "MCA/cloud computing/cc_notes_1.md",
     "MCA/cloud computing/aws_course_notes.md",
     "Pasted image 20240625123157.png",
     "Pasted image 20240625123145.png",
-    "MCA/Micro Services.md",
-    "MCA/IOT/Basic Electronics.md",
     "Pasted image 20240624080418.png",
     "2024-06-24.md",
     "MCA/cloud computing/tasks.md",
@@ -234,7 +238,6 @@
     "MCA/Project",
     "js_notes/freecoding camp tut.md",
     "2024-06-21.md",
-    "2024-06-20.md",
     "Pasted image 20240620175306.png",
     "Pasted image 20240620175224.png",
     "2024-06-18.md",
@@ -253,11 +256,8 @@
     "interview_vekora/ERP.md",
     "interview_vekora",
     "career/long term Activites.md",
-    "MCA/Project.md",
-    "MCA/Cyber Security.md",
     "JOB/coding",
     "YouTube",
-    "UPSC",
-    "JOB"
+    "UPSC"
   ]
 }
