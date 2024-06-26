@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js_notes/js_by_linkedin.md",
+                "file": "MCA/cloud computing/cc_notes_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js_notes/js_by_linkedin.md",
+                "file": "MCA/cloud computing/cc_notes_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js_notes/js_by_linkedin.md",
+                "file": "MCA/cloud computing/cc_notes_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js_notes/js_by_linkedin.md"
+                "file": "MCA/cloud computing/cc_notes_2.md"
               }
             }
           }
@@ -218,8 +218,13 @@
   "active": "3de9d79362f1b0ee",
   "lastOpenFiles": [
     "MCA/cloud computing/cc_notes_1.md",
+    "MCA/cloud computing/cc_notes_2.md",
     "js_notes/js_by_linkedin.md",
+    "MCA/cloud computing/aws_course_notes.md",
+    "Pasted image 20240625123157.png",
+    "Pasted image 20240625123145.png",
     "MCA/Micro Services.md",
+    "MCA/IOT/Basic Electronics.md",
     "Pasted image 20240624080418.png",
     "2024-06-24.md",
     "MCA/cloud computing/tasks.md",
@@ -253,9 +258,6 @@
     "JOB/coding",
     "YouTube",
     "UPSC",
-    "JOB",
-    "carrier.md",
-    "js_notes/ln1_basics.md",
-    "js_notes/programming language.md"
+    "JOB"
   ]
 }

@@ -211,8 +211,14 @@ INTRODUCTION OF MS
 
 
 
+2024-06-25 09:50
+1. challenges is in microservices
+	1. maintenence of communication btn microservices
+	2. maintaining ip address and port number
+	3. load balancing
+	4. security
+	5. server down
+2. 
 
-•
-• 
 
 

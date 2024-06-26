@@ -116,4 +116,38 @@
 		1. returns true if any one is true
 	3. ! - operator
 	4. && has more precedence than ||
-	5. 
+10. conditions
+	1.  window.confirm will raise the pop that will ask for conformation
+	2. window.prompt will ask for the input
+	3. if-else conditions
+		1. if () {}
+		2. else if () {}
+		3. else {}
+	4. switch statements
+		1. switch () {}
+		2. case "":     ; \nbreak;
+		3. break is must in each case
+	5. one line if statements
+		1. if (condition) one line satatements
+		2. else one line statements
+	6. truthy
+		1. if variable has something then it will be considered as truthy and vice versa
+	7. ternary operator
+		1. (condition)? statement 1 : statement2
+11. data types in js
+	1. numbers
+	2. strings
+	3. booleans
+	4. objects
+	5. arrays
+	6. typeof var - method will give the type of the actual variable
+	7. type of not a number (NaN) is number
+	8. type of null is object(or empty object)
+	9. type of unassigned variable will be undefined
+12. Loops
+	1. for loop
+		1. for (let i = 0; i<10 ; i+= 1) (//statments)
+	2. enumerative for loop
+		1. for (var p in list1) {p's value is the key numbers}
+		2. for (var v of list1) {v rep the values of the list instead of the key}
+		3. 

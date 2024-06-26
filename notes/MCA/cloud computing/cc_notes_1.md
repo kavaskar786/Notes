@@ -53,4 +53,6 @@
 	5. vendor lock-in
 	6. cost concerns
 9. cloud is not a solution for some problems like specific hardware and more
+	1. sensitive
+	2. cost
 10. industry 4.0,5.0 and 6.0
