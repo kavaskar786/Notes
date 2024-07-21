@@ -1,4 +1,4 @@
-2024-06-26 07:50
+ 2024-06-26 07:50
 1. cloud research
 2. Deployment models
 	1. private cloud

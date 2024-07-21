@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/AI and ML.md",
+                "file": "MCA/AI_ML/AI and ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/AI and ML.md",
+                "file": "MCA/AI_ML/AI and ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,9 +86,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1af0f87241b8cb72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA/AI_ML/Clustering_class_3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a0ae24d0494717b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/long term Activites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1218f53c052c1cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/web-DEV/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCA/microservices/cls_3.md",
+                "file": "career/web-DEV/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCA/microservices/cls_3.md",
+                "file": "career/web-DEV/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCA/microservices/cls_3.md"
+                "file": "career/web-DEV/CSS.md"
               }
             }
           }
@@ -215,49 +251,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3de9d79362f1b0ee",
+  "active": "9363e2a1c232dd89",
   "lastOpenFiles": [
-    "MCA/microservices/Micro Services.md",
-    "MCA/microservices/cls_3.md",
-    "MCA/microservices",
-    "MCA/IOT/class_2.md",
-    "2024-06-20.md",
-    "MCA/IOT/Basic Electronics.md",
-    "js_notes/js_by_linkedin.md",
+    "career/long term Activites.md",
+    "career/web-DEV/CSS.md",
+    "career/web-DEV",
+    "MCA/cloud computing/cls_5.md",
+    "MCA/cloud computing/lab1.md",
+    "MCA/cloud computing/Untitled 3.md",
+    "internship_vekora/codeigniter3/ln3.md",
+    "Pasted image 20240714201210.png",
+    "internship_vekora/codeigniter3/ln2.md",
+    "internship_vekora/codeigniter3/ln 1.md",
+    "internship_vekora/codeigniter 3.md",
+    "internship_vekora/codeigniter3",
+    "2024-07-13.md",
+    "YouTube/Long term work.md",
+    "2024-06-21.md",
+    "2024-06-24.md",
+    "MCA/cloud computing/cls_notes_5.md",
+    "MCA/cloud computing/notes.md",
     "MCA/cloud computing/cc_notes_2.md",
     "MCA/cloud computing/cc_notes_1.md",
-    "MCA/cloud computing/aws_course_notes.md",
+    "MCA/cloud computing/cc_cls_4.md",
+    "MCA/IOT/cls 3.md",
+    "MCA/digital mission/google drive.md",
+    "MCA/digital mission/google work space.md",
+    "MCA/cloud computing/cls_4.md",
+    "MCA/digital mission",
+    "MCA/Untitled.md",
+    "internship_vekora/codeigniter_tutorial.md",
+    "interview_vekora/ERP.md",
+    "MCA/cloud computing/cc_notes_3.md",
+    "internship_vekora",
+    "MCA/AI_ML",
+    "Untitled",
+    "webinar",
+    "MCA/microservices",
     "Pasted image 20240625123157.png",
     "Pasted image 20240625123145.png",
     "Pasted image 20240624080418.png",
-    "2024-06-24.md",
-    "MCA/cloud computing/tasks.md",
-    "MCA/Project/MindCare Comprehensive Mental Health Support Platform.md",
     "MCA/cloud computing",
-    "MCA/AI and ML.md",
     "MCA/Project",
-    "js_notes/freecoding camp tut.md",
-    "2024-06-21.md",
     "Pasted image 20240620175306.png",
     "Pasted image 20240620175224.png",
-    "2024-06-18.md",
-    "2024-06-19.md",
-    "Untitled.md",
-    "js_notes/intro_by_susimdev.md",
-    "MCA/cyber security.md",
-    "JOB/Aptitude/non_verbal reasoning",
-    "JOB/Aptitude/verbal ability",
-    "MCA/IOT/MOOC_2.md",
-    "MCA/IOT/MOOC course.md",
-    "Pasted image 20240618081606.png",
-    "js_notes/ln_2_num_and_maths.md",
-    "MCA/IOT",
-    "js_notes/syntax.md",
-    "interview_vekora/ERP.md",
-    "interview_vekora",
-    "career/long term Activites.md",
-    "JOB/coding",
-    "YouTube",
-    "UPSC"
+    "Pasted image 20240618081606.png"
   ]
 }

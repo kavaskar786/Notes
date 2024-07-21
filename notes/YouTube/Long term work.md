@@ -1,0 +1,2 @@
+- [ ] need to study for the iot
+- [ ] need to start the project

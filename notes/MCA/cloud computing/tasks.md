@@ -1,2 +1,3 @@
 - [ ] tomorrow register aws registration
 - [ ] and need to complete mooc course tomorrow
+- [ ] services provided by the all three platform like ma, aws, gdc lab 1
