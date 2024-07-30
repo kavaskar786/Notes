@@ -8,111 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fd99132123d9389",
+            "id": "4877c124930138fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/AI_ML/AI and ML.md",
+                "file": "Google docs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "347a2bb6dbcd0095",
+            "id": "6a72a33aedbda442",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js_notes/intro_by_susimdev.md",
+                "file": "Google Drive.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "419acebf32bafb2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e57aa37a8b22269a",
+            "id": "7579906a5f72764a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA/AI_ML/AI and ML.md",
+                "file": "Google docs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8422647999284c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCA/microservices/Micro Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "345f6586c64838c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js_notes/freecoding camp tut.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3de9d79362f1b0ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCA/microservices/cls_3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1af0f87241b8cb72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCA/AI_ML/Clustering_class_3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0ae24d0494717b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "career/long term Activites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1218f53c052c1cfc",
+            "id": "e2dc95ebb1b714f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,38 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9363e2a1c232dd89",
+  "active": "e2dc95ebb1b714f1",
   "lastOpenFiles": [
-    "career/long term Activites.md",
+    "Google docs.md",
+    "Google Calendar.md",
+    "Google Sheets.md",
+    "Google Drive.md",
     "career/web-DEV/CSS.md",
-    "career/web-DEV",
-    "MCA/cloud computing/cls_5.md",
-    "MCA/cloud computing/lab1.md",
-    "MCA/cloud computing/Untitled 3.md",
-    "internship_vekora/codeigniter3/ln3.md",
-    "Pasted image 20240714201210.png",
-    "internship_vekora/codeigniter3/ln2.md",
-    "internship_vekora/codeigniter3/ln 1.md",
-    "internship_vekora/codeigniter 3.md",
-    "internship_vekora/codeigniter3",
-    "2024-07-13.md",
+    "career/web-DEV/business plans.md",
+    "Untitled.md",
     "YouTube/Long term work.md",
-    "2024-06-21.md",
-    "2024-06-24.md",
-    "MCA/cloud computing/cls_notes_5.md",
-    "MCA/cloud computing/notes.md",
-    "MCA/cloud computing/cc_notes_2.md",
-    "MCA/cloud computing/cc_notes_1.md",
-    "MCA/cloud computing/cc_cls_4.md",
-    "MCA/IOT/cls 3.md",
+    "MCA/Project.md",
+    "MCA/cyber security.md",
+    "MCA/microservices/Micro Services.md",
     "MCA/digital mission/google drive.md",
+    "career/long term Activites.md",
+    "MCA/microservices/cls_3.md",
+    "MCA/IOT/MOOC_2.md",
+    "MCA/IOT/MOOC course.md",
+    "MCA/IOT/cls 3.md",
+    "MCA/IOT/class_2.md",
+    "MCA/IOT/Basic Electronics.md",
     "MCA/digital mission/google work space.md",
-    "MCA/cloud computing/cls_4.md",
-    "MCA/digital mission",
-    "MCA/Untitled.md",
-    "internship_vekora/codeigniter_tutorial.md",
-    "interview_vekora/ERP.md",
+    "MCA/cloud computing/aws_course_notes.md",
+    "MCA/cloud computing/cc_cls_4.md",
+    "MCA/cloud computing/cc_cls_6.md",
+    "MCA/cloud computing/cc_notes_1.md",
     "MCA/cloud computing/cc_notes_3.md",
+    "MCA/cloud computing/Cloud Assignment -1.md",
+    "career/web-DEV",
+    "Pasted image 20240714201210.png",
+    "internship_vekora/codeigniter3",
+    "MCA/digital mission",
     "internship_vekora",
     "MCA/AI_ML",
     "Untitled",
