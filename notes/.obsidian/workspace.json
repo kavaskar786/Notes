@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google docs.md",
+                "file": "programming/Modulus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79ab02db335200b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/division.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +35,8 @@
             "id": "6a72a33aedbda442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Drive.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,7 +45,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google docs.md",
+                "file": "js_notes/js programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dae00bb9a307af72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js_notes/js programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2396d9243e989322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gateways 2024/FORMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +86,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70613991a4e662bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react/mosh react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da0fadcb5ef1a122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js_notes/js programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8381e3b8c34c0c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Modulus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/web-DEV/CSS.md",
+                "file": "Gateways 2024/FORMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/web-DEV/CSS.md",
+                "file": "Gateways 2024/FORMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/web-DEV/CSS.md"
+                "file": "Gateways 2024/FORMS.md"
               }
             }
           }
@@ -183,51 +251,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2dc95ebb1b714f1",
+  "active": "2396d9243e989322",
   "lastOpenFiles": [
-    "Pasted image 20240730220837.png",
-    "Pasted image 20240730220830.png",
-    "Google docs.md",
-    "Google Calendar.md",
-    "Google Sheets.md",
-    "Google Drive.md",
-    "career/web-DEV/CSS.md",
-    "career/web-DEV/business plans.md",
     "Untitled.md",
+    "Gateways 2024/FORMS.md",
+    "js_notes/js programming.md",
+    "Gateways 2024",
+    "Pasted image 20240907170645.png",
+    "programming/const.md",
+    "js_notes/programming language.md",
+    "programming/addition.md",
+    "images",
+    "2024-06-18.md",
+    "2024-06-19.md",
+    "2024-06-20.md",
+    "2024-06-21.md",
+    "2024-07-13.md",
+    "Untitled 1",
+    "MCA/digital mission/google drive.md",
+    "programming/subtraction.md",
+    "programming/multiplication.md",
+    "programming/division.md",
+    "MCA/digital mission/Google docs.md",
+    "Untitled 1.md",
+    "MCA/digital mission/Google Drive.md",
+    "programming/Modulus.md",
+    "react/mosh react.md",
+    "career/web-DEV/CSS.md",
+    "react",
+    "images/Pasted image 20240730220837.png",
+    "images/Pasted image 20240730220830.png",
+    "MCA/digital mission/Google Calendar.md",
+    "MCA/digital mission/Google Sheets.md",
+    "career/web-DEV/business plans.md",
     "YouTube/Long term work.md",
     "MCA/Project.md",
-    "MCA/cyber security.md",
-    "MCA/microservices/Micro Services.md",
-    "MCA/digital mission/google drive.md",
-    "career/long term Activites.md",
-    "MCA/microservices/cls_3.md",
-    "MCA/IOT/MOOC_2.md",
-    "MCA/IOT/MOOC course.md",
-    "MCA/IOT/cls 3.md",
-    "MCA/IOT/class_2.md",
-    "MCA/IOT/Basic Electronics.md",
-    "MCA/digital mission/google work space.md",
-    "MCA/cloud computing/aws_course_notes.md",
-    "MCA/cloud computing/cc_cls_4.md",
-    "MCA/cloud computing/cc_cls_6.md",
-    "MCA/cloud computing/cc_notes_1.md",
-    "MCA/cloud computing/cc_notes_3.md",
     "career/web-DEV",
-    "Pasted image 20240714201210.png",
+    "images/Pasted image 20240714201210.png",
     "internship_vekora/codeigniter3",
     "MCA/digital mission",
     "internship_vekora",
     "MCA/AI_ML",
-    "Untitled",
-    "webinar",
-    "MCA/microservices",
-    "Pasted image 20240625123157.png",
-    "Pasted image 20240625123145.png",
-    "Pasted image 20240624080418.png",
-    "MCA/cloud computing",
-    "MCA/Project",
-    "Pasted image 20240620175306.png",
-    "Pasted image 20240620175224.png",
-    "Pasted image 20240618081606.png"
+    "programming",
+    "images/Pasted image 20240625123157.png",
+    "images/Pasted image 20240625123145.png",
+    "images/Pasted image 20240624080418.png",
+    "images/Pasted image 20240620175306.png",
+    "images/Pasted image 20240620175224.png",
+    "images/Pasted image 20240618081606.png"
   ]
 }
