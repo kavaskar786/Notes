@@ -1,1 +1,0 @@
-this will divide the numerator with denominator
