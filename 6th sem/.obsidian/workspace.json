@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97db9659e03a0487",
+        "id": "3417a2f12307d1da",
         "type": "tabs",
         "children": [
           {
-            "id": "6740cc357fdaddc8",
+            "id": "d99020ffabd4d08e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "01d7dab46ab4097e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2865d57c0528c62",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.5
   },
   "right": {
     "id": "4fd69ef03c0da1ea",
@@ -109,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -161,7 +139,8 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,11 +154,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6740cc357fdaddc8",
+  "active": "d99020ffabd4d08e",
   "lastOpenFiles": [
-    "Welcome.md"
+    "BCT/questions/30. Ganache for Smart Contracts.md",
+    "BCT/BCT.md",
+    "BCT/questions/51. Smart Contracts in automating IoT; workflow and process.md",
+    "BCT/questions/50. Blockchain in Financial Services.md",
+    "BCT/questions/49. Blockchain and IoT.md",
+    "BCT/questions/48. Blockchain and Cloud Computing.md",
+    "BCT/questions/47. Blockchain and AI.md",
+    "BCT/questions/46. Blockchain interoperability.md",
+    "BCT/questions/45. Emerging trends in Blockchain Technology.md",
+    "BCT/questions/44. Security through decentralization in Blockchain.md",
+    "BCT/questions/43. Case studies related to blockchain use cases - government, legal documents, land records, voting.md",
+    "BCT/questions/4. Symmetric and Asymmetric Cryptography.md",
+    "BCT/questions/3. Types of Blockchain and Use Cases.md",
+    "BCT/questions/2. Architecture of Blockchain.md",
+    "BCT/questions/1. Evolution of Blockchain.md",
+    "BCT/questions/14. Ethereum and Bitcoin differences.md",
+    "BCT/questions/15. Solidity and Traditional Programming Languages.md",
+    "BCT/questions/31. Hyperledger Fabric and its uniqueness.md",
+    "BCT/questions/29. Purpose of Gas in Ethereum network.md",
+    "BCT/questions/26. Error handling in Solidity.md",
+    "BCT/questions/25. Types of operators.md",
+    "BCT/questions/21. Solidity in block chain developement.md",
+    "BCT/questions/20. Peer to peer keys in etherium.md",
+    "BCT/questions/19. Types of accounts in etherium.md",
+    "BCT/questions/18. Decentralized Layered Ecosystem.md",
+    "BCT/questions/10. DLT.md",
+    "images/symmetric encryption.png",
+    "images/p2p.png",
+    "images/HF2.png",
+    "images/HF.png",
+    "images/AC.png",
+    "images/DLT.png",
+    "images/architecture of hyperledger.png",
+    "Pasted image 20241216151204.png",
+    "images/Architecture of block chain.png",
+    "images/Evolution of BCT.png",
+    "images",
+    "BCT/questions",
+    "BCT"
   ]
 }

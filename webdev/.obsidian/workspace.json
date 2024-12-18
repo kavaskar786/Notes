@@ -4,109 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "de4301127aee33a4",
+        "id": "e9406eba0d659fd0",
         "type": "tabs",
-        "dimension": 59.22953451043339,
+        "dimension": 67.73675762439807,
         "children": [
           {
-            "id": "73f3c2ed5db0a477",
+            "id": "b8fbdc732892246d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/framer-motion/Translate/1Translate.md",
+                "file": "keyframes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1Translate"
-            }
-          },
-          {
-            "id": "c475d281e78e530e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/framer-motion/Translate/rotate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rotate"
-            }
-          },
-          {
-            "id": "1f2bc5fed9b242a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/framer-motion/framer-motion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "framer-motion"
-            }
-          },
-          {
-            "id": "45df590f621dbc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/framer-motion/Translate/1Translate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1Translate"
-            }
-          },
-          {
-            "id": "c22ee359a1238c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/framer-motion/Translate/rotate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rotate"
-            }
-          },
-          {
-            "id": "a01fb2b93dab6c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/framer-motion/Translate/rotateY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rotateY"
+              "title": "keyframes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1118fcaa4e3a664b",
+        "id": "f63f1d95847858a8",
         "type": "tabs",
-        "dimension": 40.77046548956662,
+        "dimension": 32.263242375601926,
         "children": [
           {
-            "id": "8b3d7b8565ef52f7",
+            "id": "d2ae114ae3a11d93",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "react/framer-motion/Translate/rotate.md",
+                "file": "keyframes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,11 +59,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of rotate"
+              "title": "Graph of keyframes"
             }
           }
         ]
@@ -279,38 +208,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9363e2a1c232dd89",
+  "active": "b8fbdc732892246d",
   "lastOpenFiles": [
-    "react/framer-motion/Translate/1Translate.md",
-    "react/framer-motion/Translate/rotateY.md",
-    "react/framer-motion/Translate/rotate.md",
-    "react/framer-motion/framer-motion.md",
-    "react/JSX.md",
-    "react/framer-motion/Translate/rotateX.md",
-    "react/framer-motion/Translate/Y.md",
-    "react/framer-motion/Translate/X.md",
-    "react/framer-motion/Translate",
-    "Huxn webdev part 2.md",
-    "react/framer-motion",
+    "react/framer-motion/Transitions/transition.md",
+    "react/framer-motion/Transitions/ease/linear.md",
+    "react/framer-motion/Transitions/ease/easeInOut.md",
+    "react/framer-motion/Transitions/ease/easeOut.md",
+    "react/framer-motion/Transitions/ease/easeIn.md",
+    "react/framer-motion/Transitions/ease/circOut.md",
+    "react/framer-motion/Transitions/ease/circInOut.md",
+    "react/framer-motion/Transitions/ease/circIn.md",
+    "keyframes.md",
+    "react/framer-motion/Transitions/ease/1ease.md",
+    "react/framer-motion/Transitions/ease",
+    "react/framer-motion/keyframes",
+    "react/framer-motion/Transitions/ease/backOut.md",
+    "react/framer-motion/Transitions/duration.md",
+    "react/framer-motion/Transitions/ease/backInOut.md",
+    "react/framer-motion/Transitions/ease/backIn.md",
+    "react/framer-motion/Transitions/ease/anticipate.md",
+    "react/framer-motion/Translate/skewY.md",
+    "react/framer-motion/Translate/skewX.md",
+    "react/framer-motion/Translate/scaleY.md",
+    "react/framer-motion/Transitions/delay.md",
+    "react/framer-motion/Translate/skew.md",
+    "react/framer-motion/Transitions",
     "Stocks studies.md",
-    "react/Component.md",
-    "Huxn webdev React.md",
-    "react/mosh react.md",
-    "career/long term Activites.md",
-    "career/web-DEV/CSS.md",
-    "career/web-DEV/business plans.md",
+    "react/framer-motion/Translate/1Translate.md",
+    "react/framer-motion/Translate/rotate.md",
+    "react/framer-motion/Translate/scale.md",
+    "react/framer-motion/Translate/scaleX.md",
+    "react/framer-motion/Translate",
+    "react/framer-motion",
     "Pasted image 20240907170645.png",
-    "programming/division.md",
-    "programming/const.md",
-    "programming/addition.md",
-    "webinar/ai.md",
     "Pasted image 20241021194554.png",
-    "Registrations.md",
-    "sem5/UI&UX.md",
-    "sem5/ANN with case study.md",
-    "CV.md",
-    "NNDL.md",
-    "Huxn React.md",
     "StartUp",
     "Pasted image 20241127103339.png",
     "Pasted image 20241127103235.png",
@@ -323,9 +254,6 @@
     "sem5",
     "Gateways 2024",
     "images",
-    "Untitled 1",
-    "react",
-    "career/web-DEV",
-    "internship_vekora/codeigniter3"
+    "Untitled 1"
   ]
 }
