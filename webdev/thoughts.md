@@ -1,0 +1,3 @@
+- [ ] tell likitha about the 10 rs
+	- [ ]  tell her about the lunch in the 2pm
+- [ ] 

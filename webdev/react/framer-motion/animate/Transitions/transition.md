@@ -1,0 +1,6 @@
+1. [[duration]]
+2. [[delay]]
+3. [[1ease]]
+4. [[repeat]]
+5. [[type]]
+6. [[stiffness]]

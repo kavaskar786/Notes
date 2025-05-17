@@ -1,1 +1,3 @@
-1. [[1Translate]]
+- [ ] [[animate]]
+- [ ] [[variants]]
+- [ ] [[Gestures]]

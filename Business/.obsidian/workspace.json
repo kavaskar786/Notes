@@ -1,20 +1,85 @@
 {
   "main": {
-    "id": "c56d04f3a4db70e6",
+    "id": "6c9bbaa37a8a34cf",
     "type": "split",
     "children": [
       {
-        "id": "3417a2f12307d1da",
+        "id": "58e3d19e47217480",
         "type": "tabs",
+        "dimension": 65.68791946308725,
         "children": [
           {
-            "id": "d99020ffabd4d08e",
+            "id": "2c51b309a50090e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "beb550c539e5e8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business"
+            }
+          },
+          {
+            "id": "2b26ee0894326d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rich dad poot dad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rich dad poot dad"
+            }
+          },
+          {
+            "id": "990ecfaae1fec01c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investment plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Investment plans"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3c5d5a37519cde8a",
+        "type": "tabs",
+        "dimension": 34.31208053691275,
+        "children": [
+          {
+            "id": "e9621a6b223bac1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +88,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f99a4c24712e7a1",
+    "id": "e42e9ff4e485f113",
     "type": "split",
     "children": [
       {
-        "id": "a3e503d14cad1c55",
+        "id": "b01bb9ccde2585fd",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0ffd11a6e519f0",
+            "id": "752a7d977f22135a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +109,7 @@
             }
           },
           {
-            "id": "25cd3f43fa0411ab",
+            "id": "34104c1ad116c6e2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +126,7 @@
             }
           },
           {
-            "id": "d137b6e714b04530",
+            "id": "ebcb33949447cb70",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,26 +135,28 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 273.5
   },
   "right": {
-    "id": "4fd69ef03c0da1ea",
+    "id": "6da5af58b74ed0e6",
     "type": "split",
     "children": [
       {
-        "id": "633eb5c19e4c62a3",
+        "id": "b3c7424e8962f56e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b36b53324753fe8",
+            "id": "10b9d35a369aae54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Investment plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,49 +166,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Investment plans"
             }
           },
           {
-            "id": "8f004423ef1507e2",
+            "id": "59a80089d5040ec5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Investment plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Investment plans"
             }
           },
           {
-            "id": "0ba0c603cc8dad7c",
+            "id": "7f4cf77d0ac0b059",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1203deaf87f72d44",
+            "id": "eb27257254294737",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Investment plans.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Investment plans"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,50 +227,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d99020ffabd4d08e",
+  "active": "990ecfaae1fec01c",
   "lastOpenFiles": [
-    "BCT/questions/30. Ganache for Smart Contracts.md",
-    "BCT/BCT.md",
-    "BCT/questions/51. Smart Contracts in automating IoT; workflow and process.md",
-    "BCT/questions/50. Blockchain in Financial Services.md",
-    "BCT/questions/49. Blockchain and IoT.md",
-    "BCT/questions/48. Blockchain and Cloud Computing.md",
-    "BCT/questions/47. Blockchain and AI.md",
-    "BCT/questions/46. Blockchain interoperability.md",
-    "BCT/questions/45. Emerging trends in Blockchain Technology.md",
-    "BCT/questions/44. Security through decentralization in Blockchain.md",
-    "BCT/questions/43. Case studies related to blockchain use cases - government, legal documents, land records, voting.md",
-    "BCT/questions/4. Symmetric and Asymmetric Cryptography.md",
-    "BCT/questions/3. Types of Blockchain and Use Cases.md",
-    "BCT/questions/2. Architecture of Blockchain.md",
-    "BCT/questions/1. Evolution of Blockchain.md",
-    "BCT/questions/14. Ethereum and Bitcoin differences.md",
-    "BCT/questions/15. Solidity and Traditional Programming Languages.md",
-    "BCT/questions/31. Hyperledger Fabric and its uniqueness.md",
-    "BCT/questions/29. Purpose of Gas in Ethereum network.md",
-    "BCT/questions/26. Error handling in Solidity.md",
-    "BCT/questions/25. Types of operators.md",
-    "BCT/questions/21. Solidity in block chain developement.md",
-    "BCT/questions/20. Peer to peer keys in etherium.md",
-    "BCT/questions/19. Types of accounts in etherium.md",
-    "BCT/questions/18. Decentralized Layered Ecosystem.md",
-    "BCT/questions/10. DLT.md",
-    "images/symmetric encryption.png",
-    "images/p2p.png",
-    "images/HF2.png",
-    "images/HF.png",
-    "images/AC.png",
-    "images/DLT.png",
-    "images/architecture of hyperledger.png",
-    "Pasted image 20241216151204.png",
-    "images/Architecture of block chain.png",
-    "images/Evolution of BCT.png",
-    "images",
-    "BCT/questions",
-    "BCT"
+    "Rich dad poot dad.md",
+    "Investment plans.md",
+    "Business.md",
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,7 @@
+- [ ] [[1. basic setup of AG grid]]
+- [ ] [[2. Mapping]]
+- [ ] [[3. Formatting text]]
+- [ ] [[4. cell component]]
+- [ ] [[5. resizing columns]]
+- [ ] [[6. filtering]]
+- [ ] [[7. Editing]]
