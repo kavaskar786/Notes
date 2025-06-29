@@ -1,93 +1,77 @@
 {
   "main": {
-    "id": "1232ebfa747f9ba0",
+    "id": "04072f6265021b66",
     "type": "split",
     "children": [
       {
-        "id": "24e4c49d7afbe5f3",
+        "id": "1ed743001f34dffe",
         "type": "tabs",
-        "dimension": 83.24396782841823,
         "children": [
           {
-            "id": "4cc18ed0b6b64423",
+            "id": "af942f40835c3a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important topics unit wise.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important topics unit wise"
+              "title": "Welcome"
             }
           },
           {
-            "id": "a42d3238f04a2ed9",
+            "id": "3aeb5028b7778832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus.md",
+                "file": "TBD Feedbacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "TBD Feedbacks"
             }
           },
           {
-            "id": "70d2cced44eaf653",
+            "id": "73c0a5f709d6b1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit - 1  Discrete Structures and Optimization/Discrete Structures and Optimization.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discrete Structures and Optimization"
+              "title": "Untitled"
             }
           },
           {
-            "id": "e3ca0b92a3908a7b",
+            "id": "19beee86ccc80711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit - 1  Discrete Structures and Optimization/Sets and Relations.md",
+                "file": "Weekly webinar plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sets and Relations"
-            }
-          },
-          {
-            "id": "d1628a5ca8440a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syllabus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Weekly webinar plan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "d80e7601e87a779b",
+        "id": "1c01bd1baf207ab2",
         "type": "tabs",
-        "dimension": 16.756032171581772,
         "children": [
           {
-            "id": "60438f2695834a2f",
+            "id": "93691609a52671a0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -102,15 +86,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89a9ac387a4b8eca",
+    "id": "7299297345ea3836",
     "type": "split",
     "children": [
       {
-        "id": "686164df803fabff",
+        "id": "6ac04ce2acdd5e15",
         "type": "tabs",
         "children": [
           {
-            "id": "66cfbdaa3fe7da9f",
+            "id": "747a82ce2ef7d168",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -123,7 +107,7 @@
             }
           },
           {
-            "id": "f06faa5175137364",
+            "id": "abc0b113c9780a47",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -140,7 +124,7 @@
             }
           },
           {
-            "id": "22eaa9d42e8a3d79",
+            "id": "39e8bdaddfc5bec5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -156,20 +140,20 @@
     "width": 300
   },
   "right": {
-    "id": "383acfff03078500",
+    "id": "e5aa1c270f95ab04",
     "type": "split",
     "children": [
       {
-        "id": "32cea38809d77434",
+        "id": "a41e85c54a0920a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5d7a7eb7840ccf",
+            "id": "fb30ec56563359cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit - 1  Discrete Structures and Optimization/Sets and Relations.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,25 +163,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sets and Relations"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "1d8702c39dc43c13",
+            "id": "ea6ef77c857a00d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit - 1  Discrete Structures and Optimization/Sets and Relations.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sets and Relations"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "1b7208254199e993",
+            "id": "3ef5a0dd8034b133",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -212,18 +196,18 @@
             }
           },
           {
-            "id": "91cb3c04a0abd60d",
+            "id": "95018c2c8dcbc55c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit - 1  Discrete Structures and Optimization/Sets and Relations.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sets and Relations"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -243,37 +227,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1628a5ca8440a9e",
+  "active": "19beee86ccc80711",
   "lastOpenFiles": [
-    "Paper_20240222115831.pdf",
-    "Important topics unit wise.md",
-    "Syllabus.md",
-    "UGC NET Computer Science Notes and Study Material_ Download Free PDF.pdf",
-    "Links for the question paper.md",
-    "Link for all the notes.md",
-    "Unit - 1  Discrete Structures and Optimization/Discrete Structures and Optimization.md",
-    "Unit - 1  Discrete Structures and Optimization/Sets and Relations.md",
-    "Schedule.md",
-    "Unit - 1  Discrete Structures and Optimization/1.md",
-    "Unit - 1  Discrete Structures and Optimization/1  Discrete Structures and Optimization.md",
-    "Net Exam.md",
-    "Unit - 10  Artificial Intelligence (AI)/10  Artificial Intelligence (AI).md",
-    "Unit - 9  Data Communication and Computer Networks/9  Data Communication and Computer Networks.md",
-    "Unit - 8  Theory of Computation and Compilers/8  Theory of Computation and Compilers.md",
-    "Unit - 7  Data Structures and Algorithms/7  Data Structures and Algorithms.md",
-    "Unit - 6  Software Engineering/6  Software Engineering.md",
-    "Unit - 5  System Software and Operating System/5  System Software and Operating System.md",
-    "Unit - 4  Database Management Systems/4  Database Management Systems.md",
-    "Unit - 3  Programming Languages and Computer Graphics/3  Programming Languages and Computer Graphics.md",
-    "Unit - 2  Computer System Architecture/2  Computer System Architecture.md",
-    "Unit - 10  Artificial Intelligence (AI)",
-    "Unit - 9  Data Communication and Computer Networks",
-    "Unit - 8  Theory of Computation and Compilers",
-    "Unit - 7  Data Structures and Algorithms",
-    "Unit - 6  Software Engineering",
-    "Unit - 5  System Software and Operating System",
-    "Unit - 4  Database Management Systems",
-    "Unit - 3  Programming Languages and Computer Graphics",
+    "Untitled.md",
+    "Weekly webinar plan.md",
+    "TBD Feedbacks.md",
     "Welcome.md"
   ]
 }
