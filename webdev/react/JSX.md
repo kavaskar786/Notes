@@ -13,4 +13,4 @@ Under the hood, JSX is transformed into JavaScript functions (`React.createEleme
 	1. JSX must return a **single parent element**
 	2. JSX must be  **properly closed**
 	3. Attributes are written using the **camelCase**(eg: helloWorld)
-	4. 
+	4. Test to add the streak
