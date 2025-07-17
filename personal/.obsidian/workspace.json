@@ -133,6 +133,20 @@
             }
           },
           {
+            "id": "434aa72bc1c43bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEET_CODE_3202.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LEET_CODE_3202"
+            }
+          },
+          {
             "id": "4999d330df403541",
             "type": "leaf",
             "state": {
@@ -147,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "04ae67cd82613923",
@@ -306,12 +320,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "366f338cb9579969",
+  "active": "434aa72bc1c43bf1",
   "lastOpenFiles": [
-    "LEET_CODE_1290.md",
-    "LEET_CODE_3201.md",
-    "LEET_CODE_3304.md",
     "LEET_CODE_1498.md",
+    "LEET_CODE_3202.md",
+    "LEET_CODE_3201.md",
+    "LEET_CODE_1290.md",
+    "LEET_CODE_3304.md",
     "Daily learnings.md",
     "Future plans.md",
     "2025-04-20.md",
