@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "fec8444867793cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b6c58c191d0c068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62d0ce49cd8f07c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic things happened in the MBA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic things happened in the MBA"
+            }
+          },
+          {
+            "id": "9ce640dcbef6c4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic things happened in the MBA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic things happened in the MBA"
+            }
+          },
+          {
+            "id": "1874a7b27beb5d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic things happened in the MBA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic things happened in the MBA"
+            }
+          },
+          {
+            "id": "be0eb49a17e17cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programme co-ordinator interaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "programme co-ordinator interaction"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2aa307222248b3e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae6a18229c7e5a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c92a5dfba77256e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "376f6f632e32c136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86420b0b3c6d09df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7437a414017f766",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e05a216431b8254",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "945d9d53303348d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "009171835e771ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aba2f54581d1e8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programme co-ordinator interaction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for programme co-ordinator interaction"
+            }
+          },
+          {
+            "id": "48d1a1d28c5edf4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programme co-ordinator interaction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from programme co-ordinator interaction"
+            }
+          },
+          {
+            "id": "670ad5fe155fc56f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a970ba60af07a81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programme co-ordinator interaction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of programme co-ordinator interaction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be0eb49a17e17cdf",
+  "lastOpenFiles": [
+    "Pasted image 20250719013321.png",
+    "Pasted image 20250719005442.png",
+    "Basic things happened in the MBA.md",
+    "programme co-ordinator interaction.md",
+    "Programme co-ordinator interaction.md"
+  ]
+}
