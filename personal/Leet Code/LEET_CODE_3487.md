@@ -1,4 +1,4 @@
-You are given an integer array `nums`.
+ You are given an integer array `nums`.
 
 You are allowed to delete any number of elements from `nums` without making it **empty**. After performing the deletions, select a subarray of `nums` such that:
 

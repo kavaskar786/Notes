@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEET_CODE_3487.md",
+                "file": "Leet Code/LEET_CODE_3487.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "LEET_CODE_3487"
             }
+          },
+          {
+            "id": "7d415445c69cbe69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opportuinities/Opportunities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opportunities"
+            }
+          },
+          {
+            "id": "2b8a4ec55fb0ae64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opportuinities/Opportunities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opportunities"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,26 +206,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6507d4ae33f02ce0",
+  "active": "7d33cd39e4a6a43e",
   "lastOpenFiles": [
-    "LEET_CODE_3304.md",
-    "LEET_CODE_3487.md",
+    "others",
+    "Opportuinities",
+    "others/Future plans.md",
+    "Daily Notes/Daily learnings.md",
+    "others/best places in home town.md",
+    "others/best money secrets.md",
+    "Daily Notes/2025-04-20.md",
+    "Daily Notes",
+    "Code Walnut/Code Walnut.md",
+    "MBA",
+    "Images",
+    "Images/Backtrack_practice_for_all_possible_sub_sequences.png",
+    "Leet Code/LEET_CODE_1290.md",
+    "problem solving",
+    "Leet Code",
+    "Code Walnut/Weekly meetup.md",
+    "Code Walnut/Weekly report.md",
+    "Code Walnut",
+    "Opportuinities/Opportunities.md",
+    "create a link.md",
+    "Leet Code/LEET_CODE_3487.md",
+    "Leet Code/LEET_CODE_3304.md",
     "Monthly Learning/2025-02-23-learning.md",
-    "2322. Minimum Score After Removal on a Tree.md",
-    "LEET_CODE_1717.md",
-    "LEET_CODE_1695.md",
-    "LEET_CODE_3202.md",
-    "LEET_CODE_3201.md",
-    "LEET_CODE_1290.md",
-    "LEET_CODE_1498.md",
-    "Daily learnings.md",
-    "Future plans.md",
-    "Backtrack_practice_for_all_possible_sub_sequences.png",
-    "2025-04-20.md",
-    "Next month's Salary plans.md",
+    "Leet Code/2322. Minimum Score After Removal on a Tree.md",
+    "Leet Code/LEET_CODE_1717.md",
+    "Leet Code/LEET_CODE_1695.md",
+    "Leet Code/LEET_CODE_3202.md",
+    "Leet Code/LEET_CODE_3201.md",
+    "Leet Code/LEET_CODE_1498.md",
+    "others/Next month's Salary plans.md",
     "Welcome.md",
-    "best places in home town.md",
-    "Monthly Learning",
-    "best money secrets.md"
+    "Monthly Learning"
   ]
 }
