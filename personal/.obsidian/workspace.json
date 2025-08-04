@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "Opportunities"
             }
+          },
+          {
+            "id": "d4d73de8bf10ac44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opportuinities/Opportunities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opportunities"
+            }
+          },
+          {
+            "id": "49d56e7f9a87dcfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stocks/Paper trading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paper trading"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,8 +234,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d33cd39e4a6a43e",
+  "active": "49d56e7f9a87dcfd",
   "lastOpenFiles": [
+    "Stocks/Stocks.md",
+    "Stocks/Paper trading.md",
+    "Stocks",
+    "Opportuinities/Opportunities.md",
+    "DSA/DSA.md",
+    "DSA",
     "others",
     "Opportuinities",
     "others/Future plans.md",
@@ -226,7 +260,6 @@
     "Code Walnut/Weekly meetup.md",
     "Code Walnut/Weekly report.md",
     "Code Walnut",
-    "Opportuinities/Opportunities.md",
     "create a link.md",
     "Leet Code/LEET_CODE_3487.md",
     "Leet Code/LEET_CODE_3304.md",
@@ -238,7 +271,6 @@
     "Leet Code/LEET_CODE_3201.md",
     "Leet Code/LEET_CODE_1498.md",
     "others/Next month's Salary plans.md",
-    "Welcome.md",
-    "Monthly Learning"
+    "Welcome.md"
   ]
 }

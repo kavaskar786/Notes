@@ -26,7 +26,7 @@
 	1. AI agents Building research
 	2. Projects
 6. Investment Management
-	1. Stocks 
+	1. [[Stocks]] 
 	2. SIP
 7. Gym
 8. Hobbies
@@ -36,4 +36,4 @@
 	1. Start one youtube channel for the anime karan.
 10. Problem solving
 	1. Leet Code
-	2. DSA
+	2. [[DSA]]
