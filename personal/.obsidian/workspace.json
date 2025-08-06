@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leet Code/LEET_CODE_3477.md",
+                "file": "Leet Code/LEET_CODE_3479.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LEET_CODE_3477"
+              "title": "LEET_CODE_3479"
             }
           }
         ],
@@ -250,8 +250,9 @@
   },
   "active": "a2cb51d8bf071528",
   "lastOpenFiles": [
-    "Stocks/Paper trading.md",
     "Leet Code/LEET_CODE_3477.md",
+    "Leet Code/LEET_CODE_3479.md",
+    "Stocks/Paper trading.md",
     "Stocks/Stocks.md",
     "Stocks",
     "Opportuinities/Opportunities.md",
@@ -285,7 +286,6 @@
     "Leet Code/LEET_CODE_3202.md",
     "Leet Code/LEET_CODE_3201.md",
     "Leet Code/LEET_CODE_1498.md",
-    "others/Next month's Salary plans.md",
-    "Welcome.md"
+    "others/Next month's Salary plans.md"
   ]
 }
